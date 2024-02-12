@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Menulis judul
-st.markdown("<h1 style='text-align: center; '> Model Klasifikasi (Beli/Tidak) </h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '> Model Klasifikasi (Keluar/Tidak) </h1>", unsafe_allow_html=True)
 st.markdown('---'*10)
 
 
